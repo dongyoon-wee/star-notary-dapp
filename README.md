@@ -16,9 +16,9 @@ const infuraKey = "[YOUR_INFURA_KEY]";
 const mnemonic = "[YOUR_METAMASK_SEED_PHRASE]";
 ```
 2. Deploy the contract to Rinkeby network
-`
+```
 truffle migrate --reset --network rinkeby
-`
+```
 
 ### Running DApp
 1. Execute the following commands on terminal.
