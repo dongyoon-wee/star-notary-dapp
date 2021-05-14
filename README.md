@@ -1,5 +1,6 @@
 ## STAR NOTARY DAPP
 Decetralized applications for star notary, refering Udacity blockchain engineer nanodegree course.
+example
 
 ### Test on local network
 1. Execute the following commands on terminal.
